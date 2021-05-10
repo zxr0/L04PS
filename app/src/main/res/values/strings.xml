@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">L04PS</string>
+    <string name="group_number">Group Number</string>
+    <string name="phone_number">Phone Number:</string>
+    <string name="name">Name:</string>
+    <string name="smoking_area">Smoking Area?</string>
+    <string name="confirm">Confirm</string>
+    <string name="reset">Reset</string>
+</resources>
